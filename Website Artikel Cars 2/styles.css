@@ -1,0 +1,158 @@
+.Judul{
+    background-color: blue;
+    text-align: center;
+    color: white;
+    height: 100px;
+    padding-top: 23px;
+    padding-bottom: 27px;
+}
+
+.judul-1{
+    margin-top: 150px;
+}
+
+.sampul{
+  margin: auto;
+  align-items: center;
+}
+    
+    img{
+      height: 300px;
+      width: 300px;
+    }
+  
+    .align-center{
+      display: block;
+      margin: 0px auto;
+    }
+  
+    .mcqueen{
+      height: 300px;
+      width: 500px;
+      display: block;
+      margin: auto; 
+    }
+  
+    .francesco{
+      height: 300px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .shu{
+      height: 300px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .raoul{
+      height: 300px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .miguel{
+      height: 300px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .max{
+      height: 300px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .carla{
+      height: 300px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .lewis{
+      height: 300px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .jeff{
+      height: 300px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .clutchgoneski{
+      height: 300px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+    .nigel{
+      height: 300px;
+      width: 500px;
+      display: block;
+      margin: auto;
+    }
+
+.gambar-1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.gambar-2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.gambar-3{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.gambar-4{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.gambar-5{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.gambar-6{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.gambar-7{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.gambar-8{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.gambar-9{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.gambar-10{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.footer{
+    margin-top: 100px;
+}
